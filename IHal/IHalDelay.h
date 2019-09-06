@@ -3,8 +3,6 @@
 
 #include "stdint.h"
 
-// proba 2
-
 class IHalDelay
 {
   public:
