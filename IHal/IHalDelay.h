@@ -3,6 +3,8 @@
 
 #include "stdint.h"
 
+// Poprawka 1
+
 class IHalDelay
 {
   public:
